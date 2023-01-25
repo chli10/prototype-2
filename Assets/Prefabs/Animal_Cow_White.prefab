@@ -365,6 +365,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5613498955932027868}
   - component: {fileID: 5613498955935256126}
+  - component: {fileID: 4489673881465737711}
   m_Layer: 0
   m_Name: SA_Animals_Cow_White
   m_TagString: Untagged
@@ -484,6 +485,19 @@ SkinnedMeshRenderer:
     m_Center: {x: 0, y: -7.0392914, z: 19.432642}
     m_Extent: {x: 5.5862083, y: 16.289497, z: 24.204412}
   m_DirtyAABB: 0
+--- !u!65 &4489673881465737711
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5613498955932159892}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 11.172416, y: 32.578995, z: 48.408825}
+  m_Center: {x: 0, y: 16.28947, z: 0.29143715}
 --- !u!1 &5613498955932160796
 GameObject:
   m_ObjectHideFlags: 0
