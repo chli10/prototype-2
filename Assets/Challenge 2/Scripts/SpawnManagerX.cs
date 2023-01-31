@@ -32,3 +32,5 @@ public class SpawnManagerX : MonoBehaviour
     }
 
 }
+
+
